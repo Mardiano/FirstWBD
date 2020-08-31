@@ -1,0 +1,43 @@
+h1{
+	color:green;
+	text-transform: uppercase;
+}
+
+h2{
+	color:yellow;
+	background: #ADD8E6;
+}
+
+header{
+	text-align: center;
+	background: #ADD8E6;
+	padding-bottom: 10px;
+}
+
+nav{
+	font-variant: small-caps;
+	font-family:  Arial, "Times New Roman", Serif;
+	font-size: 125%;
+}
+
+body{
+	margin: 5%;
+	background: #A9A9A9;
+	font-size: 150%;
+}
+
+img{
+	width: 50px;
+}
+
+section{
+	display: inline-block;
+	width: 28%;
+	float: left;
+	margin: 2%;
+}
+
+footer{
+	clear: both;
+	background: #666666;
+}
